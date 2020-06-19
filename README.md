@@ -7,9 +7,13 @@
 3. [Maven 3.5.2](https://maven.apache.org/)
 4. [Postman](https://www.postman.com/) 
 
-## Execute Project
-```bash
-$ mvn spring-boot:run
-```
+## Desenvolvimento
 
-<br/>
+cd "diretorio de sua preferencia"
+git clone https://github.com/Januario86/java-spring-boot.git
+
+
+## Executar o Projeto
+
+ mvn spring-boot:run
+
