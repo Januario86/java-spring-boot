@@ -22,7 +22,8 @@ git clone https://github.com/Januario86/java-spring-boot.git
 
 mvn clean package
 
-cd "target"
+cd "target"  
+
 java -jar springboot.jar "colocar o nome do arquivo de acordo com o gerado na pasta target, EX:springboot-0.0.1.jar"
  
 ## Documentação
