@@ -18,6 +18,13 @@ git clone https://github.com/Januario86/java-spring-boot.git
 
  mvn spring-boot:run
  
+## FatJar - Engloba todas as dependencias do springBoot TomCat, Web...
+
+mvn clean package
+
+cd "target"
+java -jar springboot.jar "colocar o nome do arquivo de acordo com o gerado na pasta target, EX:springboot-0.0.1.jar"
+ 
 ## Documentação
 
 Para referência adicional, considere as seguintes seções:
